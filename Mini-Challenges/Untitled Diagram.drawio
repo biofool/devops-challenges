@@ -1,1 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T19:28:07.319Z" agent="5.0 (Macintosh)" version="13.8.0" etag="mhtXF2hrpqqb3eJqwY9K" type="github"><diagram id="7QBiTvQVlZfXUi_aLDzl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-28T19:31:29.438Z" agent="5.0 (Macintosh)" etag="Q3H3LwJvSOpZpfBdVksO" version="13.8.0" type="github">
+  <diagram id="7QBiTvQVlZfXUi_aLDzl" name="Page-1">
+    <mxGraphModel dx="855" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DsO7Z8TRbdIJE6e0MXdb-1" value="Deployment" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="180" y="210" width="380" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="DsO7Z8TRbdIJE6e0MXdb-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="DsO7Z8TRbdIJE6e0MXdb-1" source="DsO7Z8TRbdIJE6e0MXdb-4" target="DsO7Z8TRbdIJE6e0MXdb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DsO7Z8TRbdIJE6e0MXdb-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;startArrow=none;endArrow=none;rounded=0;" edge="1" parent="DsO7Z8TRbdIJE6e0MXdb-1" source="DsO7Z8TRbdIJE6e0MXdb-4" target="DsO7Z8TRbdIJE6e0MXdb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Anthony&#39;s AWS Acct&lt;/div&gt;&lt;div&gt;EKS Host&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="DsO7Z8TRbdIJE6e0MXdb-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="DsO7Z8TRbdIJE6e0MXdb-1">
+            <mxGeometry x="80" y="40" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="DsO7Z8TRbdIJE6e0MXdb-5" value="&lt;div&gt;Kenneth&#39;s&lt;/div&gt;&lt;div&gt;Docker Hub Image Host&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="DsO7Z8TRbdIJE6e0MXdb-1">
+          <mxGeometry x="20" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DsO7Z8TRbdIJE6e0MXdb-6" value="&lt;div&gt;Garima&#39;s&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="DsO7Z8TRbdIJE6e0MXdb-1">
+          <mxGeometry x="160" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
